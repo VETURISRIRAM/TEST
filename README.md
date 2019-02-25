@@ -1,6 +1,6 @@
 ### Description!
 
-This is a stand-alone python script which you can use to generate and visualize the results of the test cases of Readings service.
+This is a stand-alone python script which you can use to generate and visualize the results of the test cases of Readings service.\n
 After you run the script with the command mentioned below, a text file is generated with test results in it.
 Also, a JSON file is created with the dump of the test results in it.
 
