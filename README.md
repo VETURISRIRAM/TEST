@@ -522,12 +522,12 @@ for receiving a 503:
 
 # GUIDE About How to Submit Feedback and Create Tickets on JIRA
 
-If you are facing any problem in any of the services that Uptake offers like if you think some service is not responding to your request as it was expected to, or if you think something might be considered as a bug in the services, or anything in the similar lines, the best way to bring this to notice is by creating a JIRA ticket explaining the situation. Here is a step by step guide for creating tickets in JIRA.
+If you are facing any problem in any of the services that Uptake offers like if you think some service is not responding to your request as it was expected to, or if you think something might be considered as a bug in the services, or anything in the similar lines, the best way to bring this to notice is by creating a JIRA ticket explaining the situation. Here is a step by step guide for creating tickets in JIRA. <br>
 
-Go to the mentioned site https://jira.uptake.com/ and log in with your Uptake credentials and visit the dashboard. 
-On the top section of the page, you can find an option ‘Create’. Click on it.
-A new window would pop up which says ‘Create Issue’. In that window, there would be several options mentioned below which you have to select in order to create the issue ticket.
-Project : Depending upon the project that you are working on, select the most appropriate project option.
+1) Go to the mentioned site https://jira.uptake.com/ and log in with your Uptake credentials and visit the dashboard. <br>
+2) On the top section of the page, you can find an option ‘Create’. Click on it. <br>
+3) A new window would pop up which says ‘Create Issue’. In that window, there would be several options mentioned below which you have to select in order to create the issue ticket. <br>
+	a) Project : Depending upon the project that you are working on, select the most appropriate project option.<br>
 Issue Type : Depending upon the type of problem you are facing, select one of the types. For example, you can just select ‘Bug’.
 Dev Team : Depending upon the team that you wish to assign the ticket to, select one of the options. For platform feedback, you can assign it to James Lamb.
 Description : Fill in the description about the issue that you are facing. You might want to include the step by step process of what you tried to achieve and what resulted. You can also add your suggestion about how you wish the feature to work.
