@@ -528,13 +528,12 @@ If you are facing any problem in any of the services that Uptake offers like if 
 2) On the top section of the page, you can find an option ‘Create’. Click on it. <br>
 3) A new window would pop up which says ‘Create Issue’. In that window, there would be several options mentioned below which you have to select in order to create the issue ticket. <br>
 <pre>a) Project : Depending upon the project that you are working on, select the most appropriate project option.</pre><br>
-	b) Issue Type : Depending upon the type of problem you are facing, select one of the types. For example, you can just select ‘Bug’.<br>
-Dev Team : Depending upon the team that you wish to assign the ticket to, select one of the options. For platform feedback, you can assign it to James Lamb.
-Description : Fill in the description about the issue that you are facing. You might want to include the step by step process of what you tried to achieve and what resulted. You can also add your suggestion about how you wish the feature to work.
-Environment : You must include your environment details like the operating system you are using and other relevant hardware and software details that might concern with the issue.
-Attachments (Strongly Recommended) : You can add some of the screenshots or documents about the issue so that it becomes easy for the person who would attending your ticket to have a complete idea about the issue.
-Assignee : You can start typing the person whom you might want to assign the ticket to solve. As you type, the person’s name would appear as a dropdown list. You can assign it to James Lamb if you are have an issue related to the platform and are not sure about the asignee.
-Hit ‘Create’ at the bottom of that window to issue the ticket. 
+<pre>b) Issue Type : Depending upon the type of problem you are facing, select one of the types. For example, you can just select ‘Bug’.</pre><br>
+<pre>c) Dev Team : Depending upon the team that you wish to assign the ticket to, select one of the options. For platform feedback, you can assign it to James Lamb.</pre><br>
+<pre>d) Description : Fill in the description about the issue that you are facing. You might want to include the step by step process of what you tried to achieve and what resulted. You can also add your suggestion about how you wish the feature to work.</pre><br>
+<pre>e) Environment : You must include your environment details like the operating system you are using and other relevant hardware and software details that might concern with the issue.</pre><br>
+<pre>f) Attachments (Strongly Recommended) : You can add some of the screenshots or documents about the issue so that it becomes easy for the person who would attending your ticket to have a complete idea about the issue.</pre><br>
+<pre>g) Assignee : You can start typing the person whom you might want to assign the ticket to solve. As you type, the person’s name would appear as a dropdown list. You can assign it to James Lamb if you are have an issue related to the platform and are not sure about the asignee.</pre><br>
+<pre>h) Hit ‘Create’ at the bottom of that window to issue the ticket.</pre><br>
  
 All other fields have description about them and you can fill them if you wish to. The ticket would be generated and you can view your tickets under ‘Issues’ tab on the top of the homepage.
-
