@@ -527,8 +527,8 @@ If you are facing any problem in any of the services that Uptake offers like if 
 1) Go to the mentioned site https://jira.uptake.com/ and log in with your Uptake credentials and visit the dashboard. <br>
 2) On the top section of the page, you can find an option ‘Create’. Click on it. <br>
 3) A new window would pop up which says ‘Create Issue’. In that window, there would be several options mentioned below which you have to select in order to create the issue ticket. <br>
-	a) Project : Depending upon the project that you are working on, select the most appropriate project option.<br>
-Issue Type : Depending upon the type of problem you are facing, select one of the types. For example, you can just select ‘Bug’.
+<pre>a) Project : Depending upon the project that you are working on, select the most appropriate project option.</pre><br>
+	b) Issue Type : Depending upon the type of problem you are facing, select one of the types. For example, you can just select ‘Bug’.<br>
 Dev Team : Depending upon the team that you wish to assign the ticket to, select one of the options. For platform feedback, you can assign it to James Lamb.
 Description : Fill in the description about the issue that you are facing. You might want to include the step by step process of what you tried to achieve and what resulted. You can also add your suggestion about how you wish the feature to work.
 Environment : You must include your environment details like the operating system you are using and other relevant hardware and software details that might concern with the issue.
