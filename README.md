@@ -520,7 +520,7 @@ for receiving a 503:
 
 <a id="jira_add"></a>
 
-# GUIDE About How to Submit Feedback and Create Tickets on JIRA
+# Guide to Submit Platform Feedback
 
 If you are facing any problem in any of the services that Uptake offers like if you think some service is not responding to your request as it was expected to, or if you think something might be considered as a bug in the services, or anything in the similar lines, the best way to bring this to notice is by creating a JIRA ticket explaining the situation. Here is a step by step guide for creating tickets in JIRA. <br>
 
