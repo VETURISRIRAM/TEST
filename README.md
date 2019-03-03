@@ -530,19 +530,27 @@ If you are facing any problem in any of the services that Uptake offers like if 
 
 3) A new window would pop up which says `Create Issue`. In that window, there would be several options mentioned below which you have to select in order to create the issue ticket.
 
-a) ```Project``` : Depending upon the project that you are working on, select the most appropriate project option.
+a) ```Project``` : Depending upon the project that you are working on, select the most appropriate project option. For platform feedback, use `Platform X (PFX)`.
 
-b) ```Issue Type``` : Depending upon the type of problem you are facing, select one of the types. For example, you can just select ‘Bug’.
+b) ```Issue Type``` : Depending upon the type of problem you are facing, select one of the types. For example, you can just select `Bug` if it is a bug or `Story` if it is a feature enhancement request.
 
-c) ```Dev Team``` : Depending upon the team that you wish to assign the ticket to, select one of the options. For platform feedback, you can assign it to `Platform X Product Managers`.
+c) ```Summary``` : Enter a short description which would give the person picking up the ticket an idea about it.
 
-d) ```Description``` : Fill in the description about the issue that you are facing. You might want to include the step by step process of what you tried to achieve and what resulted. You can also add your suggestion about how you wish the feature to work.
+d) ```Epic Link``` : If it is platform feedback, this field should be `Platform Feedback`
 
-e) ```Environment``` : You must include your environment details like the operating system you are using and other relevant hardware and software details that might concern with the issue.
+e) ```Dev Team``` : Depending upon the team that you wish to assign the ticket to, select one of the options. For platform feedback, you can assign it to `Platform X Product Managers`.
 
-f) ```Attachments``` (Strongly Recommended) : You can add some of the screenshots or documents about the issue so that it becomes easy for the person who would attending your ticket to have a complete idea about the issue.
+f) ```Description``` : Fill in the description about the issue that you are facing. You might want to include the step by step process of what you tried to achieve and what resulted. You can also add your suggestion about how you wish the feature to work.
 
-g) ```Assignee``` : You can start typing the person whom you might want to assign the ticket to solve. As you type, the person’s name would appear as a dropdown list. For Platform Feedback, unless you are very sure about who should pick it up, please assign it to `Manpreet Lakhan`.
+g) ```Environment``` : You must include your environment details like the operating system you are using and other relevant hardware and software details that might concern with the issue.
+
+h) ```Attachments``` (Strongly Recommended) : You can add some of the screenshots or documents about the issue so that it becomes easy for the person who would attending your ticket to have a complete idea about the issue.
+
+i) ```Assignee``` : You can start typing the person whom you might want to assign the ticket to solve. As you type, the person’s name would appear as a dropdown list. For Platform Feedback, unless you are very sure about who should pick it up, please assign it to `Manpreet Lakhan`.
+
+j) ```Label``` : If it is a platform feedback, this field should be `PlatformFeedback`.
+
+h) ```Additional Assignee``` : This field should have your name or the person creating this ticket.
 
 4) Hit `Create` at the bottom of that window to issue the ticket.
  
