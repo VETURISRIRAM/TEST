@@ -12,3 +12,7 @@ python main_file.py
 #### Where can I find plots?
 
 You can find find the plots snippets in the directory `Plot Insights`. You can view how the categorical features are mapped in the `mappings.txt` file. There is a description about the plots in the 'Readings' Word Document.
+
+#### Jupyter Notebook
+
+You can launch and try to run the code yourself in the Jupyter Notebook(`TrussCaseStudy`) too. It has step-by-step description of the code.
