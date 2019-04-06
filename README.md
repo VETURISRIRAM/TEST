@@ -1,5 +1,9 @@
 # IR HW4
 
+Name: Sriram Veturi
+
+UIN: 651427659
+
 ## Description
 
 PageRank to derive a ranking of words in a document based on their PageRank scores.
@@ -30,3 +34,4 @@ K = 8 --> MMR : 0.3342337987826705
 K = 9 --> MMR : 0.32255639097744243
 K = 10 --> MMR : 0.2771631459601365
 ```
+
