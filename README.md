@@ -1,18 +1,28 @@
-## TRUSS CASE STUDY
+# Goal: PageRank to derive a ranking of words in a document based on their PageRank scores.
 
-#### How to run the code?
+## How to run?
 
-Make sure your system has the libraries mantioned in `requirements.txt` file.
+There are two command line inputs
 
-The entire code is present in the file `main_file.py`. You can run the following command to run the file.
+1) `data_path`: Path the files of the data.
+
+2) `w` : w parameter
+
+### Example run:
+
+```python main.py --data_path ./www/www/ --w 6```
+
+### Sample Output for w=6
 
 ```
-python main_file.py
+K = 1 --> MMR : 0.0
+K = 2 --> MMR : 0.6421052631578947
+K = 3 --> MMR : 0.6255639097744361
+K = 4 --> MMR : 0.5319548872180455
+K = 5 --> MMR : 0.4689223057644111
+K = 6 --> MMR : 0.4561403508771925
+K = 7 --> MMR : 0.4510651629072684
+K = 8 --> MMR : 0.3342337987826705
+K = 9 --> MMR : 0.32255639097744243
+K = 10 --> MMR : 0.2771631459601365
 ```
-#### Where can I find plots?
-
-You can find find the plots snippets in the directory `Plot Insights`. You can view how the categorical features are mapped in the `mappings.txt` file. There is a description about the plots in the 'Readings' Word Document.
-
-#### Jupyter Notebook
-
-You can launch and try to run the code yourself in the Jupyter Notebook(`TrussCaseStudy`) too. It has step-by-step description of the code.
