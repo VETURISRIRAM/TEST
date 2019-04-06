@@ -1,4 +1,8 @@
-# Goal: PageRank to derive a ranking of words in a document based on their PageRank scores.
+# IR HW4
+
+## Description
+
+PageRank to derive a ranking of words in a document based on their PageRank scores.
 
 ## How to run?
 
