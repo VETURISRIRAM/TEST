@@ -24,11 +24,17 @@ python main_file.py --data_dir house-prices-advanced-regression-techniques
 
 ### Data Preprocessing and Cleaning
 
-#### Missing Values: The missing values in the numerical and categorical features were replaced by the median and most frequent values of the features respectively.
+#### `Missing Values`: 
 
-#### Categorical Features: Mapped the categorical entries to numbers uniquely. For example, 'male' becomes 0 and 'female' becomes 1.
+The missing values in the numerical and categorical features were replaced by the median and most frequent values of the features respectively.
 
-#### Standardization: The entire data was normalized.
+#### `Categorical Features`: 
+
+Mapped the categorical entries to numbers uniquely. For example, 'male' becomes 0 and 'female' becomes 1.
+
+#### `Standardization`: 
+
+The entire data was normalized.
 
 
 ### Feature Engineering
