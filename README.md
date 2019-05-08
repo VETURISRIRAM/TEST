@@ -1,6 +1,9 @@
 # Smart-Search
 
-<img src="Results/Query-1/query.JPG" width="500" height="300" align="middle>
+<img src="Results/Query-1/query.JPG" width="500" height="300">
+<p align="center">
+  <img width="500" height="300" src="Results/Query-1/query.JPG">
+</p>
 This project seeks to build a comprehensive and reliable search engine for the University of Illinois at Chicago using various Information Retrieval techniques and algorithms.
 
 There are seven major operations involved in getting this search engine up and running.
